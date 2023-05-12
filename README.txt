@@ -1,4 +1,6 @@
-      _      _      _      USB       _      _      _
+This repository is deprecated and does not apply to the new (2022) USB Rubber Ducky or DuckyScript 3.0 - risk of damage if used.
+
+_      _      _      USB       _      _      _
    __(.)< __(.)> __(.)=   Rubber   >(.)__ <(.)__ =(.)__
    \___)  \___)  \___)    Ducky!    (___/  (___/  (___/ 
 
